@@ -1,2 +1,3 @@
 This my file A
 First file for GIT
+After commit this line has been added ti this file
