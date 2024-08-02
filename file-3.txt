@@ -1,1 +1,2 @@
 featureA branch
+New line is add into file 3 in featureA
