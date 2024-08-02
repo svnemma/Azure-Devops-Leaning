@@ -1,3 +1,7 @@
 featureA branch
+<<<<<<< HEAD
 New line is add into file 3 in featureA
 add line 3.40PM
+=======
+New line is add into file 3 in featureAgit
+>>>>>>> main
