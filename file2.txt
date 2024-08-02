@@ -1,0 +1,2 @@
+This file B from File2
+2nd file for GIT
