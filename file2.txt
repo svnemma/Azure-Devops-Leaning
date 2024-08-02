@@ -1,2 +1,3 @@
 This file B from File2
 2nd file for GIT
+3nd line add for main branch file2
