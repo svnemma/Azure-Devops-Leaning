@@ -1,2 +1,3 @@
 featureA branch
 New line is add into file 3 in featureA
+add line 3.40PM
