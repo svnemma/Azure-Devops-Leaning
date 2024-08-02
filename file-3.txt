@@ -1,7 +1,2 @@
 featureA branch
-<<<<<<< HEAD
-Add to new line after create the link to GITHUB
-Third line is add now 1.15 PM
-=======
-New line is add into file 3 in featureA
->>>>>>> freatureA
+New line is add into file 3 in featureAgit
