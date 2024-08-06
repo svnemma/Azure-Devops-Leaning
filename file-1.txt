@@ -4,3 +4,4 @@ After commit this line has been added ti this file
 Anothet change now this is new line addgit status
 new line add now
 Add this 3.38 PM in file1
+Squash merhe ia add to file 1
